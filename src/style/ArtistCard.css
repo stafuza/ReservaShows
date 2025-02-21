@@ -1,0 +1,16 @@
+.artist-card {
+  background: rgb(54, 51, 51);
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+  width: 100%;
+}
+
+.artist-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
